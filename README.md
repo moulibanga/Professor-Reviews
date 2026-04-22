@@ -8,8 +8,6 @@ Using the PlanetTerp API, I collected real review data, built a dataset, and fin
 ## Goal
 Do written student reviews accurately reflect the numerical rating they give?
 
-This project explores that question using NLP and machine learning.
-
 ## Data Collection
 - Data collected dynamically using the PlanetTerp API
 - 5 professors with ≥5 reviews each
