@@ -35,11 +35,6 @@ Do written student reviews accurately reflect the numerical rating they give?
   - Class imbalance (more high ratings)
   - Limited training time
 
-## Future Improvements
-- Collect more data (more professors + reviews)
-- Balance dataset across rating classes
-- Experiment with different models / hyperparameters
-
 ## Files
 - `professor_rating_predictor.ipynb` — full pipeline (data collection → training → evaluation)
 - `professor_rating_project_report.pdf` — presentation slides
